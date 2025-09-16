@@ -28,4 +28,6 @@ This project demonstrates modern Android development practices with a clean stru
 ### Clone the repository
 ```bash
 git clone https://github.com/bisheshdumre/My-First-Project.git
-cd My-First-Project
+
+## License
+This project is licensed under the MIT License – you are free to use, modify, and distribute it.
