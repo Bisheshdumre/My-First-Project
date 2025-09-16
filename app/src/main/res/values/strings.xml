@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="keypass_format">Keypass: %1$s</string>
+    <string name="back">Back</string>
+    <string name="logout">Logout</string>
+
+    <string name="no_items_found">No items found</string>
+    <string name="api_error">API error: %1$d</string>
+    <string name="network_error">Network error: %1$s</string>
+</resources>
