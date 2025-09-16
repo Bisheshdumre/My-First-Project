@@ -1,5 +1,5 @@
-# 1. Create README.md with full content
-cat > README.md << 'EOF'
+
+
 #  My First Project (Android)
 
 An Android application built with Kotlin and Gradle.  
